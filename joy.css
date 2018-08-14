@@ -1,0 +1,93 @@
+body{
+    height: 100%;
+    width: 100%;
+	background: gray;
+}
+.rgsystem{
+	margin-top: 10px;
+	padding: 5px;
+	text-align: center;
+	font-size: 35px;
+	font-style: bold;
+
+}
+
+.partitiondiv{
+
+	height: 60%;
+	margin-top: 50px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: yellow;
+}
+.firstnamediv{
+	padding: 5px;
+	font-size: 25px;
+	font-style: bold;
+}
+
+
+.lastnamediv{
+	padding: 5px;
+	font-style: bold;
+	font-size: 25px;
+
+}
+
+.iddiv{
+	padding: 5px;
+	font-style: bold;
+	font-size: 25px;
+
+}
+.emaildiv{
+	padding: 5px;
+	font-style: bold;
+	font-size: 25px;
+
+}
+
+.header2div{
+	font-style: bold;
+	font-size: 25px;
+}
+.sectiondiv{
+	padding: 10px;
+	height: auto;
+	width: auto;
+}
+
+.regi{
+	overflow: hidden;
+	width: 100%;
+	height: 50px;
+	margin-top: 60px;
+	background-color: green;
+}
+
+
+.reg{
+	margin-top: 14px;
+	margin-left: 550px;
+	float: left;
+
+	
+}
+
+.cncl{
+	margin-top: 14px;
+	float: right;
+	margin-right: 550px;
+
+}
+.devloper{
+	width: 100%;
+	background-color: gray;
+	height: 50px
+}
+.name{
+	text-align: center;
+	font-style: italic;
+	margin-left: 10px;
+}
